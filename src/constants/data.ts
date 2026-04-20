@@ -90,7 +90,7 @@ export const PROJECTS_DATA = [
     type: "personal"
   },
   {
-    title: "Sistema de Chat Multiusuário",
+    title: "Sistema de Chat Multi usuário",
     description: "Arquitetura cliente/servidor construída puramente em Java 21. Utiliza Sockets TCP e multithreading para suportar múltiplas conexões simultâneas, salas de bate-papo, mensagens privadas (1-1) e geração automática de logs.",
     image: "/personal/socket-chat.png",
     icon: MessageSquare,
