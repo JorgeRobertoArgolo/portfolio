@@ -145,15 +145,9 @@ export const CONTACT_INFO = [
     href: "mailto:jorgerobertoargolo@gmail.com",
   },
   {
-    icon: Phone,
-    label: "Telefone",
-    value: "+55 (74) 99963-3107", 
-    href: "tel:+557499963107",
-  },
-  {
     icon: MapPin,
     label: "Localização",
-    value: "Irecê, Bahia - Brasil",
+    value: "Brasil",
     href: null,
   },
 ]
