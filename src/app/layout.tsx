@@ -19,8 +19,7 @@ export const metadata: Metadata = {
   title: 'Jorge Roberto | Dev Full Stack',
   description: 'Portfolio de desenvolvedor full stack especializado em Java, TypeScript, React e React Native.',
   icons: {
-    icon: '/icon.svg',
-    apple: '/apple-icon.png',
+    icon: '/src/app/favicon.ico',
   },
 }
 
